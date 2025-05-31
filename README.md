@@ -15,7 +15,6 @@ Aplikacja do analizy statystyk graczy FACEIT CS2 poprzez integrację z API Steam
 - [Uruchomienie](#uruchomienie)
 - [API Endpoints](#api-endpoints)
 - [Przykłady użycia](#przykłady-użycia)
-- [Wsparcie](#wsparcie)
 - [Licencja](#licencja)
 
 ## Funkcjonalności
@@ -104,8 +103,6 @@ python client.py
    - **Statystyki gracza** - dane FACEIT i Steam
    - **Znajomi** - lista znajomych na Steam
 
-## Wsparcie
-Problem? [Otwórz issue](https://github.com/twoj_nick/faceit-stats-finder/issues)
 
 ## Licencja
 Ten projekt jest dostępny jako **open-source** na licencji MIT.
